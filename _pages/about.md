@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yupeng Han (韩玉鹏). I am currently a second-year Master's student (since Sepetember 2024) majoring in Computer Science and Technology at University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn/), advised by A/Prof. [Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) (黄振亚) & A/Res. [Kai Zhang](http://home.ustc.edu.cn/~sa517494/) (张凯).
+My name is Yupeng Han (韩玉鹏). I am currently a second-year Master's student (since Sepetember 2024) majoring in Computer Science and Technology at University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn/), advised by A/Prof. [Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) (黄振亚) & A/Res. [Kai Zhang](http://home.ustc.edu.cn/~sa517494/) (张凯). Prior to this, I obtained my Bachelor’s degree in Computer Science and Technology from Nanjing University of Finance and Economics [(NUFE)](https://www.nufe.edu.cn/) in 2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Multimodal Representation Learning, Large Language Models. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including NeurIPS, CIKM.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+TBD
 
 # 📝 Publications 
 
