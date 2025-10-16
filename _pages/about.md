@@ -37,7 +37,7 @@ Xianquan Wang, Zhaocheng Du, Huibo Xu, Shukang Yin, **Yupeng Han**, Jieming Zhu,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/model (1).pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='ACSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Harnessing Commonsense: LLM-Driven Knowledge Integration for Fine-Grained Sentiment Analysis](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
