@@ -47,6 +47,26 @@ Kai Zhang, **Yupeng Han**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='ACSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection](https://arxiv.org/pdf/2505.19435)
+
+Zhihong Pan, Kai Zhang, Yuze Zhao, **Yupeng Han**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='ACSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Entity Reliability to Clean Feedback: An Entity-Aware Denoising Framework Beyond Interaction-Level Signals](https://arxiv.org/pdf/2508.10851)
+
+Ze Liu, Xianquan Wang, Shuochen Liu, Jie Ma, Huibo Xu, **Yupeng Han**, Kai Zhang, Jun Zhou
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023* Undergraduate National Scholarship, Ministry of Education of the People’s Republic of China. (本科生国家奖学金)
 - *2022* The 17th National University Students Car Race <font color="red">First Prize</font> (第十七届全国大学生智能汽车竞赛全国总决赛一等奖)
