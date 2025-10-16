@@ -52,7 +52,7 @@ Kai Zhang, **Yupeng Han**
 - *2022* The 17th National University Students Car Race <font color="red">First Prize</font> (第十七届全国大学生智能汽车竞赛全国总决赛一等奖)
 - *2022* 2022 China Robot Competition & RoboCup China Open <font color="red">Second Prize</font> (2022中国机器人大赛暨RoboCup机器人世界杯中国赛总决赛全国二等奖)
 -  *2022* 2022 China Robot Competition & RoboCup China Open <font color="red">Third Prize</font> (2022中国机器人大赛暨RoboCup机器人世界杯中国赛专项赛全国三等奖)
-- *2021* 2021 China Robot Competition & RoboCup China Open <font color="red">Third Prize</font> (2022中国机器人大赛暨RoboCup机器人世界杯中国赛总决赛全国三等奖)
+- *2021* 2021 China Robot Competition & RoboCup China Open <font color="red">Third Prize</font> (2021中国机器人大赛暨RoboCup机器人世界杯中国赛总决赛全国三等奖)
 - *2024* Outstanding Graduates of Jiangsu Province's Ordinary Colleges and Universities. (江苏省优秀毕业生)
 
 # 📖 Educations
