@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yupeng Han (韩玉鹏). I am currently a second-year master's student (since Sepetember 2024) majoring in Computer Science and Technology at University of Science and Technology of China (USTC) (https://www.ustc.edu.cn/), advised by A/Prof. Zhenya Huang (黄振亚) & A/Res. Kai Zhang (张凯).
+My name is Yupeng Han (韩玉鹏). I am currently a second-year Master's student (since Sepetember 2024) majoring in Computer Science and Technology at University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn/), advised by A/Prof. [Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) (黄振亚) & A/Res. [Kai Zhang](http://home.ustc.edu.cn/~sa517494/) (张凯).
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Personalized Visual Content Generation in Conversational Systems](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Xianquan Wang, Zhaocheng Du, Huibo Xu, Shukang Yin, Yupeng Han, Jieming Zhu, Kai Zhang, Qi Liu
+Xianquan Wang, Zhaocheng Du, Huibo Xu, Shukang Yin, **Yupeng Han**, Jieming Zhu, Kai Zhang, Qi Liu
 
 </div>
 </div>
