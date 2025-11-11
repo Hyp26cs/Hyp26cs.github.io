@@ -50,7 +50,7 @@ Kai Zhang, **Yupeng Han**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/rtr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection]([https://arxiv.org/pdf/2505.19435])
+[Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection](https://arxiv.org/pdf/2505.19435)
 
 Zhihong Pan, Kai Zhang, Yuze Zhao, **Yupeng Han**
 
