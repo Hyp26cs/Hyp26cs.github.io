@@ -30,7 +30,7 @@ TBD
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/PIVIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Personalized Visual Content Generation in Conversational Systems](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Personalized Visual Content Generation in Conversational Systems](https://openreview.net/pdf?id=6MUgQXkxIC)
 
 Xianquan Wang, Zhaocheng Du, Huibo Xu, Shukang Yin, **Yupeng Han**, Jieming Zhu, Kai Zhang, Qi Liu
 
@@ -50,7 +50,7 @@ Kai Zhang, **Yupeng Han**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/rtr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection](https://arxiv.org/pdf/2505.19435)
+[Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection]([https://arxiv.org/pdf/2505.19435](https://dl.acm.org/doi/pdf/10.1145/3746252.3761223))
 
 Zhihong Pan, Kai Zhang, Yuze Zhao, **Yupeng Han**
 
