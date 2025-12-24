@@ -47,6 +47,26 @@ Kai Zhang, **Yupeng Han**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/AEMRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Trust, but Verify: Uncertainty-Aware Fusion for Robust Mining of Multimodal Web Data](https://dl.acm.org/doi/pdf/10.1145/3746252.3761223)
+
+**Yupeng Han**, Kai Zhang, Xianquan Wang, Zhihong Pan, Ze Liu, Zhenya Huang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/FBP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fuzzy-Boundary Prototypical Clustering for Semantics Discovery in Multimodal Utterances](https://dl.acm.org/doi/pdf/10.1145/3746252.3761223)
+
+**Yupeng Han**, Kai Zhang, Xianquan Wang, Ze Liu, Zhihong Pan, Xiangyu Zhao, Qi Liu, Enhong Chen
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/rtr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
