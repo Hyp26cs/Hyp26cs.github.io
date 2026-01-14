@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Yupeng Han (韩玉鹏). I am currently a second-year Master's student (since Sepetember 2024) majoring in Computer Science and Technology at University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn/), advised by A/Prof. [Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) (黄振亚) & A/Res. [Kai Zhang](http://home.ustc.edu.cn/~sa517494/) (张凯). Prior to this, I obtained my Bachelor’s degree in Computer Science and Technology from Nanjing University of Finance and Economics [(NUFE)](https://www.nufe.edu.cn/) in 2024.
 
-My research interest includes Multimodal Representation Learning, Large Language Models. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including NeurIPS, CIKM.
+My research interest includes Multimodal Representation Learning, Large Language Models. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including NeurIPS, WWW, CIKM.
 
 
 # 🔥 News
@@ -67,7 +67,7 @@ Kai Zhang, **Yupeng Han**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/rtr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/rtr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection](https://arxiv.org/pdf/2505.19435)
@@ -77,7 +77,7 @@ Zhihong Pan, Kai Zhang, Yuze Zhao, **Yupeng Han**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/eard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/eard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Entity Reliability to Clean Feedback: An Entity-Aware Denoising Framework Beyond Interaction-Level Signals](https://arxiv.org/pdf/2508.10851)
