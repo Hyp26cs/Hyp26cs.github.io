@@ -102,4 +102,4 @@ Ze Liu, Xianquan Wang, Shuochen Liu, Jie Ma, Huibo Xu, **Yupeng Han**, Kai Zhang
 # 💬 Invited Talks
 TBD
 # 💻 Internships
-TBD
+- 2025.12 - present, JD.com, Research Intern. 
