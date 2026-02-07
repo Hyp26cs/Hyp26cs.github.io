@@ -102,4 +102,5 @@ Ze Liu, Xianquan Wang, Shuochen Liu, Jie Ma, Huibo Xu, **Yupeng Han**, Kai Zhang
 # 💬 Invited Talks
 TBD
 # 💻 Internships
-- 2025.12 - present, JD.com, Research Intern. 
+- 2026.2 - present, Ant Group, Ling Team, Research Intern.
+- 2025.12 - 2026.2, JD.com, Research Intern. 
