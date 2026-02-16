@@ -67,7 +67,7 @@ Kai Zhang, **Yupeng Han**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/rtr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/rtr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Route to Reason: Adaptive Routing for LLM and Reasoning Strategy Selection](https://arxiv.org/pdf/2505.19435)
@@ -77,12 +77,22 @@ Zhihong Pan, Kai Zhang, Yuze Zhao, **Yupeng Han**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/eard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/eard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Entity Reliability to Clean Feedback: An Entity-Aware Denoising Framework Beyond Interaction-Level Signals](https://arxiv.org/pdf/2508.10851)
 
 Ze Liu, Xianquan Wang, Shuochen Liu, Jie Ma, Huibo Xu, **Yupeng Han**, Kai Zhang, Jun Zhou
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/impo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Pixel to Precision: Enhancing Handwritten Mathematical Expression Recognition with Image-Level Reward](https://arxiv.org/pdf/2508.10851)
+
+Ze Liu, Kai Zhang, Xianquan Wang, Shuochen Liu, Jiaxian Yan, **Yupeng Han**, Qi Liu
 
 </div>
 </div>
