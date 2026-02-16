@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Yupeng Han (韩玉鹏). I am currently a second-year Master's student (since Sepetember 2024) majoring in Computer Science and Technology at University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn/), advised by A/Prof. [Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) (黄振亚) & A/Res. [Kai Zhang](http://home.ustc.edu.cn/~sa517494/) (张凯). Prior to this, I obtained my Bachelor’s degree in Computer Science and Technology from Nanjing University of Finance and Economics [(NUFE)](https://www.nufe.edu.cn/) in 2024.
 
-My research interest includes Multimodal Representation Learning, Large Language Models. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including NeurIPS, WWW, CIKM.
+My research interest includes Multimodal Representation Learning, LLM Pretraining especially at Long-context Reasoning and Efficient Architecture. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including NeurIPS, WWW, CIKM.
 
 
 # 🔥 News
