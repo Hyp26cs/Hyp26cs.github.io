@@ -47,7 +47,7 @@ Kai Zhang, **Yupeng Han**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/AEMRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI UR</div><img src='images/AEMRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trust, but Verify: Uncertainty-Aware Fusion for Robust Mining of Multimodal Web Data](https://dl.acm.org/doi/pdf/10.1145/3746252.3761223)
