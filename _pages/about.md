@@ -42,7 +42,7 @@ Xianquan Wang, Zhaocheng Du, Huibo Xu, Shukang Yin, **Yupeng Han**, Jieming Zhu,
 
 [Harnessing Commonsense: LLM-Driven Knowledge Integration for Fine-Grained Sentiment Analysis](https://dl.acm.org/doi/pdf/10.1145/3746252.3761223)
 
-Kai Zhang, **Yupeng Han**
+Kai Zhang(Mentor), **Yupeng Han**
 
 </div>
 </div>
