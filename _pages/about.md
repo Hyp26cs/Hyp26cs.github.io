@@ -27,22 +27,22 @@ TBD
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/AEMRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Trust, but Verify: Uncertainty-Driven Evidential Multimodal Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3746252.3761223)
+
+**Yupeng Han**, Kai Zhang, Xianquan Wang, Zhihong Pan, Ze Liu, Zhenya Huang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/PIVIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Personalized Visual Content Generation in Conversational Systems](https://openreview.net/pdf?id=6MUgQXkxIC)
 
 Xianquan Wang, Zhaocheng Du, Huibo Xu, Shukang Yin, **Yupeng Han**, Jieming Zhu, Kai Zhang, Qi Liu
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/AEMRL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Trust, but Verify: Uncertainty-Driven Evidential Multimodal Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3746252.3761223)
-
-**Yupeng Han**, Kai Zhang, Xianquan Wang, Zhihong Pan, Ze Liu, Zhenya Huang
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Kai Zhang(Mentor), **Yupeng Han**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/FBP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/FBP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fuzzy-Boundary Prototypical Clustering for Semantics Discovery in Multimodal Utterances](https://dl.acm.org/doi/pdf/10.1145/3746252.3761223)
