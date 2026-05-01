@@ -47,9 +47,6 @@ Kai Zhang(Mentor), **Yupeng Han**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/FBP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/PIVIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,6 +56,9 @@ Xianquan Wang, Zhaocheng Du, Huibo Xu, Shukang Yin, **Yupeng Han**, Jieming Zhu,
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/FBP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Fuzzy-Boundary Prototypical Clustering for Semantics Discovery in Multimodal Utterances](https://dl.acm.org/doi/pdf/10.1145/3746252.3761223)
 
