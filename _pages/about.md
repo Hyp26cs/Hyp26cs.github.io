@@ -1,4 +1,4 @@
----
+<img width="969" height="384" alt="26a9ebb999ec5eb0aeafd64b8d2a2873" src="https://github.com/user-attachments/assets/85f9a5c6-729b-4cb7-892b-90b28f02e457" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yupeng Han (韩玉鹏). I am currently a second-year Master's student (since Sepetember 2024) majoring in Computer Science and Technology at University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn/), advised by A/Prof. [Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) (黄振亚) & A/Res. [Kai Zhang](http://home.ustc.edu.cn/~sa517494/) (张凯). Prior to this, I obtained my Bachelor’s degree in Computer Science and Technology from Nanjing University of Finance and Economics [(NUFE)](https://www.nufe.edu.cn/) in 2024.
+My name is Yupeng Han (韩玉鹏). I am currently a joint Ph.D. student (since Sepetember 2026) majoring in Computer Science and Technology at University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn/) and [(CityU)](https://www.cityu.edu.hk/), advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) (刘淇) & A/Res. [Kai Zhang](http://home.ustc.edu.cn/~sa517494/) (张凯) at [(State Key Laboratory of Cognitive Intelligence)](https://cogskl.iflytek.com/), and Xiangyu Zhao at [(AML Lab)](https://aml-cityu.github.io/). Prior to this, I obtained my Bachelor’s degree in Computer Science and Technology from Nanjing University of Finance and Economics [(NUFE)](https://www.nufe.edu.cn/) in 2024.
 
 My research interest includes Multimodal Representation Learning, LLM Agents especially at Personalized Agent Memory and Agent Harness Engineering. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including NeurIPS, CVPR, WWW, IJCAI, CIKM.
 
@@ -106,6 +106,7 @@ Ze Liu, Kai Zhang, Xianquan Wang, Shuochen Liu, Jiaxian Yan, **Yupeng Han**, Qi 
 - *2024* Outstanding Graduates of Jiangsu Province's Ordinary Colleges and Universities. (江苏省优秀毕业生)
 
 # 📖 Educations
+- *2026.09 - present*, Department of Data Science, City University of Hong Kong, Hongkong, China.
 - *2024.09 - present*, School of Computer Science and Technology, University of Science and Technology of China, Hefei, China. 
 - *2020.09 - 2024.06*, School of Computer and Artificial Intelligence, Nanjing University of Finance and Economics, Nanjing, China. 
 
