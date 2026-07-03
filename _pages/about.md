@@ -106,7 +106,7 @@ Ze Liu, Kai Zhang, Xianquan Wang, Shuochen Liu, Jiaxian Yan, **Yupeng Han**, Qi 
 - *2024* Outstanding Graduates of Jiangsu Province's Ordinary Colleges and Universities. (江苏省优秀毕业生)
 
 # 📖 Educations
-- *2026.09 - present*, Department of Data Science, City University of Hong Kong, Hongkong, China.
+- *2026.09 - present*, Department of Data Science, City University of Hong Kong, Hong Kong, China.
 - *2024.09 - present*, School of Computer Science and Technology, University of Science and Technology of China, Hefei, China. 
 - *2020.09 - 2024.06*, School of Computer and Artificial Intelligence, Nanjing University of Finance and Economics, Nanjing, China. 
 
