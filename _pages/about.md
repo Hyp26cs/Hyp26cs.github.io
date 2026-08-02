@@ -114,5 +114,5 @@ Ze Liu, Kai Zhang, Xianquan Wang, Shuochen Liu, Jiaxian Yan, **Yupeng Han**, Qi 
 TBD
 # 💻 Internships
 - 2026.8 - present, LongCat Interaction, Meituan, Research Intern.
-- 2026.2 - 2026.6, Ant Group, Ling Team, Research Intern.
+- 2026.2 - 2026.6, Ling Team, Ant Group, Research Intern.
 - 2025.12 - 2026.2, JD.com, Research Intern. 
