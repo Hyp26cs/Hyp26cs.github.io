@@ -30,7 +30,7 @@ TBD
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/AEMRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trust, but Verify: Uncertainty-Driven Evidential Multimodal Representation Learning](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/5993.pdf)
+[Trust, but Verify: Uncertainty-Driven Evidential Multimodal Representation Learning](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/7452.pdf)
 
 **Yupeng Han**, Kai Zhang, Xianquan Wang, Zhihong Pan, Ze Liu, Zhenya Huang
 
