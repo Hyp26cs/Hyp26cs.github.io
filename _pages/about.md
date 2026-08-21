@@ -27,12 +27,22 @@ TBD
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src='images/AEMRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning What to Share and What to Personalize: Hierarchical Strategy Co-Evolution for Agent Memory](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/7452.pdf)
+
+**Yupeng Han**, Shuochen Liu, Kai Zhang, Ze Liu, Zhihong Pan, Xianquan Wang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/AEMRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trust, but Verify: Uncertainty-Driven Evidential Multimodal Representation Learning](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/7452.pdf)
 
-**Yupeng Han**, Kai Zhang, Xianquan Wang, Zhihong Pan, Ze Liu, Zhenya Huang
+**Yupeng Han**, Kai Zhang, Xianquan Wang, Zhihong Pan, Ze Liu, Jiyuan He
 
 </div>
 </div>
