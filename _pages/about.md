@@ -30,7 +30,7 @@ TBD
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src='images/HiPS_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning What to Share and What to Personalize: Hierarchical Strategy Co-Evolution for Agent Memory](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/7452.pdf)
+[Learning What to Share and What to Personalize: Hierarchical Strategy Co-Evolution for Agent Memory](https://arxiv.org/pdf/2608.25329)
 
 **Yupeng Han**, Shuochen Liu, Kai Zhang, Ze Liu, Zhihong Pan, Xianquan Wang
 
