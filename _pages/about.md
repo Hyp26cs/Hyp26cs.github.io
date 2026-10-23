@@ -107,6 +107,10 @@ Ze Liu, Kai Zhang, Xianquan Wang, Shuochen Liu, Jiaxian Yan, **Yupeng Han**, Qi 
 </div>
 </div>
 
+# 📚 Academic Services
+- **Conference Program Committee / Reviewer**: WWW 2027 (Long Paper), ARR 2026 (Oct), WSDM 2027.
+- **Journal Reviewer**: ACM TIST.
+
 # 🎖 Honors and Awards
 - *2023* Undergraduate National Scholarship, Ministry of Education of the People’s Republic of China. (本科生国家奖学金)
 - *2022* The 17th National University Students Car Race <font color="red">First Prize</font> (第十七届全国大学生智能汽车竞赛全国总决赛一等奖)
