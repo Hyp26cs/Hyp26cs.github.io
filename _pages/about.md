@@ -52,7 +52,7 @@ TBD
 
 [Personalized Memory Rubrics: Learning What to Remember per User via Rubric-Guided Credit Assignment](https://www.ijcai.org/proceedings/2026/0128.pdf)
 
-**Yupeng Han**, Kai Zhang, Shuochen Liu, Xianquan Wang, Ze Liu, Zhihong Pan, Xiangyu Zhao, Qi Liu, Enhong Chen
+**Yupeng Han**, Kai Zhang, Shuochen Liu, Ze Liu, Xianquan Wang, Zhihong Pan, Xiangyu Zhao, Qi Liu, Enhong Chen
 
 </div>
 </div>
