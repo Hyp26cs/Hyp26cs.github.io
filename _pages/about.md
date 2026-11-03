@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Yupeng Han (韩玉鹏). I am currently a joint Ph.D. student (since Sepetember 2026) majoring in Computer Science and Technology at University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn/) and City University of Hong Kong [(CityU)](https://www.cityu.edu.hk/), advised by Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) (刘淇) & A/Res. [Kai Zhang](http://home.ustc.edu.cn/~sa517494/) (张凯) at [(State Key Laboratory of Cognitive Intelligence)](https://cogskl.iflytek.com/), and Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) at [(AML Lab)](https://aml-cityu.github.io/). Prior to this, I obtained my Bachelor’s degree in Computer Science and Technology from Nanjing University of Finance and Economics [(NUFE)](https://www.nufe.edu.cn/) in 2024.
 
-My research interest includes Multimodal Representation Learning, LLM Agents especially at Personalized Agent Memory and Agent Harness Evolution. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including NeurIPS, CVPR, EMNLP, WWW, IJCAI, CIKM.
+My research interest includes Multimodal Representation Learning, LLM Agents especially at Personalized Agent Memory and Agent Harness Evolution. I am fortunate to collaborate with researchers and have co-authored several papers presented at top-tier conferences, including NeurIPS, CVPR, EMNLP, WWW, IJCAI, WSDM, CIKM.
 
 
 # 🔥 News
@@ -43,6 +43,16 @@ TBD
 [Trust, but Verify: Uncertainty-Driven Evidential Multimodal Representation Learning](https://www.ijcai.org/proceedings/2026/0128.pdf)
 
 **Yupeng Han**, Kai Zhang, Xianquan Wang, Zhihong Pan, Ze Liu, Jiyuan He
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2027</div><img src='images/PMR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Personalized Memory Rubrics: Learning What to Remember per User via Rubric-Guided Credit Assignment](https://www.ijcai.org/proceedings/2026/0128.pdf)
+
+**Yupeng Han**, Kai Zhang, Shuochen Liu, Xianquan Wang, Ze Liu, Zhihong Pan, Xiangyu Zhao, Qi Liu, Enhong Chen
 
 </div>
 </div>
